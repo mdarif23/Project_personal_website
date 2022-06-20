@@ -1,0 +1,122 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  font-family: "Poppins", sans-serif;
+}
+/* fist section css start */
+.first-section {
+  background-image: url("personal-website-images/header-bg.png");
+  height: 800px;
+  background-position: center;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.fist-section-text {
+  width: 40%;
+  float: left;
+  margin-left: 10%;
+  padding: 2%;
+  margin-top: 200px;
+}
+.fist-section-text h4 {
+  font-size: 25px;
+  font-weight: 500;
+  height: 5px;
+}
+.fist-section-text h3 {
+}
+.name-highlight {
+  color: #ec4c7a;
+  font-size: 40px;
+}
+.fist-section-text p {
+  margin-bottom: 35px;
+  opacity: 0.5;
+}
+.button {
+  text-decoration: none;
+  color: white;
+  background-color: #ec4c7a;
+  padding: 8px 25px;
+  border-radius: 3%;
+} /* common buuton css */
+.fist-section-img img {
+  width: 30%;
+  float: left;
+  padding: 2%;
+  margin-top: 100px;
+}
+/* fist sectionc css end */
+/* second section html start */
+.second-section {
+  background-image: url("personal-website-images/biography-bg.png");
+  height: 800px;
+  background-position: center;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+.second-section-img img {
+  width: 30%;
+  float: left;
+  padding: 2%;
+  margin-top: 100px;
+  margin-left: 10%;
+}
+.second-section-text p {
+  margin-bottom: 35px;
+  opacity: 0.5;
+}
+.second-section-text {
+  width: 40%;
+  float: right;
+  margin-left: 10%;
+  padding: 2%;
+  margin-top: 200px;
+}
+/* second section html end */
+/* third section css :start */
+.third-section {
+  height: 500px;
+}
+.third-section h2 {
+  text-align: center;
+  opacity: 0.8;
+}
+.third-section-img {
+  display: flex;
+  justify-content: center;
+}
+.third-section-img img {
+  height: 300px;
+  width: 300px;
+  padding: 2%;
+}
+/* third section css end */
+/* last section css :start */
+.contact-button {
+  display: inline-block;
+}
+.last-section-text {
+  width: 100%;
+  text-align: center;
+}
+.last-section {
+  background-image: url("personal-website-images/footer-bg.png");
+  text-align: center;
+  height: 500px;
+}
+.contact-button p {
+  font-size: 10px;
+}
+.contact-button h5 {
+  font-size: 17px;
+  margin: 0;
+  padding: 0 40px 15px 40px;
+}
+/* last section css end  */
+.copyright p {
+  text-align: center;
+  opacity: 0.8;
+}
